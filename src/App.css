@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: Roboto, Verdana, Geneva, Tahoma, sans-serif;
+}
+.container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+.btnLink {
+    font-size: x-large;
+    font-weight: bold;
+    color: #ff4848;
+    text-decoration: none;
+}.btnLink svg {
+    margin: 2px;
+}
+/* ©RayanDiniz */
+.rdiniz {
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 28px;
+
+    color: #585858;
+}
+
+
+/*.modes {
+    margin-bottom: 1rem;
+  }
+  
+  .button-container {
+    margin-bottom: 0.5rem;
+  }
+  
+  .fade-enter .btn {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+  .fade-enter-active .btn {
+    opacity: 1;
+    transform: translateX(0%);
+  }
+  .fade-exit .btn {
+    opacity: 1;
+    transform: translateX(0%);
+  }
+  .fade-exit-active .btn {
+    opacity: 0;
+    transform: translateX(100%);
+  }
+  .fade-enter-active .btn,
+  .fade-exit-active .btn {
+    transition: opacity 500ms, transform 500ms;
+  }
+/*
+.btn {
+    background-color: #ff4848;
+    color: #fff;
+    border: none;
+    padding: 0.2em 1em 0.2em 1em;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 25px;
+}.icon {
+    margin-bottom: -4.5px;
+}*/

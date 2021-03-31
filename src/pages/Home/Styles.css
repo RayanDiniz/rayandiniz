@@ -1,0 +1,11 @@
+.rowExpande{
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.linkhome{
+    height: 50.5px;
+    margin-top: 8px;
+    text-align: right;
+}
