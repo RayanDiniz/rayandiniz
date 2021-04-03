@@ -4,7 +4,7 @@ import { Container, Row, Col, Image, Button } from 'react-bootstrap';
 import { FaArrowRight } from "react-icons/fa";
 
 import "./Styles.css";
-import hom from "../../assets/home-illustration.jpg";
+import intro from "../../assets/home-illustration.jpg";
 
 function Home() {
     return (
@@ -29,7 +29,7 @@ function Home() {
                 </Col>
 
                 <Col md={6}>
-                    <Image src={hom} fluid />
+                    <Image src={intro} fluid />
                 </Col>
             </Row>
 
