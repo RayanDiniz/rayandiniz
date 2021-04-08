@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { Container, Row, Col, Image, Button } from 'react-bootstrap';
 import { FaArrowRight } from "react-icons/fa";
 
+import Logo from '../../components/Logo';
 import "./Styles.css";
 import intro from "../../assets/home-illustration.jpg";
 
@@ -10,6 +11,7 @@ function Home() {
     return (
         <Container>
             <Row>
+                <Logo />
                 <Col className="linkhome">
                     <Link to="/login" className="btnLink">
                         login

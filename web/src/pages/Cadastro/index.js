@@ -3,12 +3,14 @@ import { Link } from 'react-router-dom';
 import { Container, Row, Col, Button, Form, FormText } from 'react-bootstrap';
 import { FaArrowLeft, FaHome } from "react-icons/fa";
 
+import Logo from '../../components/Logo';
 import "./Styles.css";
 
 function Cadastro() {
   return (
     <Container>
       <Row>
+        <Logo />
         <Col className="linklogin">
           <Link to="/" className="btnLink">
             <FaArrowLeft />

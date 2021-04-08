@@ -3,12 +3,13 @@ import { Link, useHistory } from 'react-router-dom';
 import { Container, Row, Col, Image, Button, Form } from 'react-bootstrap';
 import { FaArrowLeft } from "react-icons/fa";
 
+import Logo from '../../components/Logo';
 import api from '../../services/api';
 import "./Styles.css";
 import Logi from "../../assets/login-illustration.jpg";
 
 function Login() {
-  const [email, setEmail] = useState('');
+  const [email] = useState('');
   const history = useHistory();
 
   async function handleLogin(e) {
@@ -29,6 +30,7 @@ function Login() {
   return (
     <Container>
       <Row>
+        <Logo />
         <Col className="linklogin">
           <Link to="/" className="btnLink">
             <FaArrowLeft />
@@ -40,7 +42,7 @@ function Login() {
       <Row className="formCenter">
         <Form onSubmit={handleLogin} className="form">
           <Image src={Logi} fluid rounded alt="login" />
-          <input type="email" value={email} placeholder="Login" />
+          <input type="email" placeholder="Login" />
           <input type="password" placeholder="Senha" />
 
           <Form.Row className="formCenter">
