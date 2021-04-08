@@ -1,0 +1,17 @@
+@media(max-width: 425px){
+    .form{
+        width: 300px;
+    }input textarea {        
+        font-size: 14px;
+    }
+}@media(max-width: 1440px){
+    .form{
+        width: 500px;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        display: flex;
+    }input textarea {
+        font-size: 23px;
+    }
+}
