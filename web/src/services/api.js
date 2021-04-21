@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'https://adote-um-pet.herokuapp.com/',
+    baseURL: 'http://localhost/rayandiniz/api/servico/mostrar',
 });
 
 export default api;

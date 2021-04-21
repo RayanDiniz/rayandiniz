@@ -8,6 +8,7 @@ import "./Styles.css";
 import intro from "../../assets/home-illustration.jpg";
 
 function Home() {
+    
     return (
         <Container>
             <Row>
