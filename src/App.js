@@ -1,25 +1,23 @@
-import logo from './logo.svg';
+import img from './assets/frame.png';
 import './App.css';
+
+import { Collapse } from 'react-collapse';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+       
+        <span className="App-title">Sou Desenvolvedor</span>
+        <hr className="App-line"/>
+
+        <Collapse isOpened={false}>
+          <p>Desenvolvedor de sistemas e aplicações, freelancer que desenvolve soluções para problemas de outras empresas.</p>
+        </Collapse>
       </header>
+       <img src={img} className="App-img" alt="logo" />
     </div>
-  );
+  );  
 }
 
 export default App;
