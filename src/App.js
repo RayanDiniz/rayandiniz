@@ -1,18 +1,19 @@
-import { Collapse } from 'react-collapse';
 import img from './assets/frame.png';
 import './App.css';
+
+import Sobre from './components/Sobre';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
        
-        <span className="App-title">Sou Desenvolvedor</span>
+        <span className="App-title">Rayan Cassio Vieira Diniz</span>
         <hr className="App-line"/>
-
-        <Collapse isOpened={false}>
-          <p>Desenvolvedor de sistemas e aplicações, freelancer que desenvolve soluções para problemas de outras empresas.</p>
-        </Collapse>
+        <ul className="App-link">
+          <li><Sobre /></li>
+          <li><Sobre /></li>
+        </ul>
       </header>
        <img src={img} className="App-img" alt="logo" />
     </div>
