@@ -1,7 +1,6 @@
+import { Collapse } from 'react-collapse';
 import img from './assets/frame.png';
 import './App.css';
-
-import { Collapse } from 'react-collapse';
 
 function App() {
   return (
@@ -17,7 +16,7 @@ function App() {
       </header>
        <img src={img} className="App-img" alt="logo" />
     </div>
-  );  
+  )
 }
 
 export default App;
