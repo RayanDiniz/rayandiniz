@@ -2,7 +2,6 @@
   "name": "rayandiniz",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rayandiniz.github.io/rayandiniz/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.1.2",
