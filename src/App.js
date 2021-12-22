@@ -56,9 +56,7 @@ function App() {
               </Tab>
             </Tabs>
           </header>
-        </Col>
-        <Col>
-          <Image src={img} fluid alt="logo" />
+          <Image src={img} fluid className="rouded" alt="logo" />
         </Col>
       </Row>
     </Container>
