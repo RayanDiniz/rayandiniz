@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rayan Diniz</h1>
-<h3 align="center">A Brazilian and full stack developer lover</h3>
+# Hi 👋, I'm Rayan Diniz
+
+A Brazilian and full stack developer lover
+
+## Where can you find me?
+
+YouTube
+Twitter
+Instagram
+My site
+
+## Projects I'm working on
 
 - 🔭 I’m currently working on [Notas JS](https://github.com/RayanDiniz/notasjs)
 
