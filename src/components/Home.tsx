@@ -1,5 +1,5 @@
 import * as React from "react";
-import Typist from "@types/react-typist";
+import Typist from "react-typist";
 import TypistLoop from "react-typist-loop";
 const Home = () => {
   return (
