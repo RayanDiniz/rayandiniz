@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rayan Diniz</h1>
-<h3 align="center">A Brazilian and full stack developer lover</h3>
+# Hi 👋, I'm Rayan Diniz
+
+A Brazilian and full stack developer lover
+
+## Projects I'm working on
 
 - 🔭 I’m currently working on [Notas JS](https://github.com/RayanDiniz/notasjs)
 
@@ -21,11 +24,15 @@
 
 - ⚡ Fun fact **I'm very focused and I know how to have fun when I need to**
 
-<h3 align="left">Connect with me:</h3>
+## Where can you find me?
+
+Connect with me:
+
 <p align="left">
 <a href="https://twitter.com/rayancassio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rayancassio" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rayan-cassio-vieira-diniz-16671b145/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rayan-cassio-vieira-diniz-16671b145/" height="30" width="40" /></a>
 <a href="https://instagram.com/rayancssio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayancssio" height="30" width="40" /></a>
+<a href="[https://instagram.com/rayancssio](https://www.youtube.com/channel/UCV73esrjQBHhnltNbX013Zw)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rayancssio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
