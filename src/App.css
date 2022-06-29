@@ -79,6 +79,23 @@ body {
   background-color: var(--bs-body-color);
   font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
 }
+/*App colors*/
+.primary {
+  background-color: var(--bs-primary);
+}
+.danger {
+  background-color: var(--bs-danger);
+}
+.warning {
+  background-color: var(--bs-warning);
+}
+.info {
+  background-color: var(--bs-info);
+}
+.success {
+  background-color: var(--bs-success);
+}
+/*--------*/
 .App {
   background-color: rgb(109, 109, 109);
   color: #fff;
@@ -143,6 +160,7 @@ body {
   height: 100vh;
   border-bottom: var(--bs-light) solid 2px;
 }
+/*Home*/
   .AppHome {
     background-image: url("./assets/fundo.jpg");
   }#mascara {
@@ -160,9 +178,28 @@ body {
     animation: blinkcursor 500ms steps(40) infinite normal,
     typing 4s steps(40) 1s normal both;*/
   }
+/*Sobre*/
   .AppSobre {
     padding: 1rem;
+    background-color: #0a0a0a;
+  }.AppSobre h1 {
+    color: #198754;
+  }.AppSobre h2 {
+    color: #198754;
+  }.AppSobre p {
+    border: #198754 1px solid;
+    border-radius: 8px;
+    padding: 1rem;
+    margin: 1rem;
+  }.AppSobre .stacks {
+    display: flex;
+  }.AppSobre .stacks .pill {
+    margin: 0.3rem;
+    padding: 0.2rem;
+    font-weight: bold;
+    border-radius: 8px;
   }
+/*Experienca*/
   .AppExp {
     padding: 1rem;
   }
