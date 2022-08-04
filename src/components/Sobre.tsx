@@ -2,7 +2,7 @@ import * as React from "react";
 const Sobre = () => {
   return (
     <div className="AppSobre container">
-      <h1>Seja bem-vindo!</h1>
+      <h1>Um pouco sobre mim</h1>
       <p>
         Eu sou o
         Rayan Cassio Vieira Diniz, e quero que você seja muito bem-vindo 
