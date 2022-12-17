@@ -2,7 +2,7 @@ import * as React from "react";
 const Experiencia = () => {
   return(
     <div className="AppExp container">
-      <div>
+      <div className="exBloco">
         <div>
           <div>ZinidTech</div>
           2019 - Atual<br/>

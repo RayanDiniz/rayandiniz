@@ -202,13 +202,23 @@ body {
 /*Experienca*/
   .AppExp {
     padding: 1rem;
+    background-color: #0d6efd;
+  }.AppExp .exBloco {
+    background-color: #0dcaf0;
+    border: #198754 solid;
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 1rem;
   }
+/*Experienca*/
   .AppEduca {
     padding: 1rem;
   }
+/*Experienca*/
   .AppProjetos {
     padding: 1rem;
   }
+/*Experienca*/
   .AppContatos {
     padding: 1rem;
   }
