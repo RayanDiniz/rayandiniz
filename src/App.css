@@ -210,17 +210,29 @@ body {
     padding: 1rem;
     margin: 1rem;
   }
-/*Experienca*/
+/*Educação*/
   .AppEduca {
     padding: 1rem;
   }
-/*Experienca*/
+/*Projetos*/
   .AppProjetos {
     padding: 1rem;
   }
-/*Experienca*/
+/*Contatos*/
   .AppContatos {
     padding: 1rem;
+    background-color: #26003a;
+    text-align-last: center;
+  }.list-group {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center ;
+  }.boxContact {
+    padding: 1rem;
+    margin: 1rem;
+    border: solid 2px #bd76f1;
+    border-radius: 10px;
+    box-shadow: #0a0a0a;
   }
 
 .App-link {

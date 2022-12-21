@@ -11,7 +11,7 @@ const Experiencia = () => {
         </div>
       </div>
 
-      <div>
+      <div className="exBloco">
         <div>
           <div>Sorveteria Diniz</div>
           2019 - Atual<br/>
@@ -20,7 +20,7 @@ const Experiencia = () => {
         </div>
       </div>
 
-      <div>
+      <div className="exBloco">
         <div>
         <div>Ipiranga Produtos de Petróleo SA</div>
           2018 - 2019<br/>
